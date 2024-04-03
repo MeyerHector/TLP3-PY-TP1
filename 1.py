@@ -13,3 +13,4 @@ def weird_algohrithm(n):
 print(weird_algohrithm(3))
 assert weird_algohrithm(3) == [3, 10, 5, 16, 8, 4, 2, 1], 'error en el caso de prueba'
 print('Calculo exitoso')
+#d
